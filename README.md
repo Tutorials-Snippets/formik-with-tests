@@ -1,4 +1,5 @@
-# React Formik and Unit Testing with react-testing-library
+# Formik form with unit tests
+## Formik form and Unit Testing with react-testing-library
 
 This is a formic-react form with unit tests. This is just a small practice project I created to learn formic and also, apply unit testing to a formic form following TDD (Test Driven Developmnet) principals.
 
@@ -11,4 +12,4 @@ This tutorial project I completed is based on:
 
 
 
-# formik-with-tests
+
